@@ -1,0 +1,9 @@
+h1 {
+  color: red;
+  font-size: 7rem;
+  display: flex;
+  justify-content: center;
+}
+p {
+  color: green;
+}
